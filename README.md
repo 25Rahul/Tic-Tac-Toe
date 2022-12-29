@@ -4,7 +4,7 @@ This is a Tic Tac Toe Game build based on my own insperation and design, it star
 
 Built With
 
-.HTML,
-.CSS,
-.JavaScript
+HTML,
+CSS,
+JavaScript
 
